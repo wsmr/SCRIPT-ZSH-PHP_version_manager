@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # PVM (PHP Version Manager) for macOS
 # A lightweight PHP version manager that works with Homebrew
-# GitHub: https://github.com/YOUR_USERNAME/pvm-macos
+# GitHub: https://github.com/wsmr/macOS-ZSH-PHP_version_manager
 
 # Installation: Add this function to your ~/.zshrc or ~/.bash_profile
 # Usage: pvm <version> | pvm system | pvm list | pvm current
